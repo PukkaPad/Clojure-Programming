@@ -1,4 +1,4 @@
-# clojure-programming-book
+# Clojure Programming - Chapter 1
 
 Learning Clojure Programming from the ['Clojure Programming'](http://www.clojurebook.com/) book.
 
